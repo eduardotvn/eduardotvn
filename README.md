@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @eduardotvn
-- 👀 I’m interested in backend development, more specifically coding api's with Golang. 
-- 🌱 I’m currently learning golang and sql. 
-- 💞️ I’m looking to collaborate on api development. 
+- 👀 I’m interested in Data Science and Machine Learning 
+- 🌱 I’m currently learning python based algorithms for Machine Learning, and intend to proceed with C++ in the future.
+- 💞️ I’m looking forward to become a Machine Learning Engineer. 
 
 <!---
 eduardotvn/eduardotvn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
